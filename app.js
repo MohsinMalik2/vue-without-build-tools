@@ -1,4 +1,4 @@
-const main = Vue.createApp({
+const component = Vue.createApp({
     
 
     data(){
@@ -26,4 +26,4 @@ const main = Vue.createApp({
 
 });
 
-main.mount('#main');
+component.mount('#main');
